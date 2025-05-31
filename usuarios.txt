@@ -1,0 +1,10 @@
+{
+  "username": "usuario1",
+  "password": "usuario1.",
+  "role": "abogado"
+}
+{
+  "username": "usuario2",
+  "password": "usuario2.",
+  "role": "cliente"
+}
